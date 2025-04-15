@@ -380,4 +380,24 @@ footer ul li a{
     footer ul{
         gap: 1rem;
     }
+
+    .resume {
+  padding: 2rem;
+}
+
+.resume h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.resume p, .resume li {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.education-entry, .experience-entry {
+  margin-bottom: 1.5rem;
+}
+
 }
